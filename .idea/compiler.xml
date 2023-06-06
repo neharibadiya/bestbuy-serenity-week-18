@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Week-18-bestbuy-serenity" />
+        <module name="bestbuy-serenity-week-18" />
         <module name="Week-18-bestbuy-serenity-project" />
       </profile>
     </annotationProcessing>
